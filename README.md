@@ -40,7 +40,7 @@ A machine learning project that predicts the outcome of CS:GO matches based on h
 
 ---
 
-## Sample Results (Random Forest Classifier)
+## Best Results (Random Forest Classifier)
 
 | Metric    | Score |
 |-----------|-------|
@@ -49,6 +49,5 @@ A machine learning project that predicts the outcome of CS:GO matches based on h
 | F1-Score  | 0.73  |
 | Accuracy  | 0.77  |
 
-weighted avg       0.75      0.71      0.73     99780
 
    
