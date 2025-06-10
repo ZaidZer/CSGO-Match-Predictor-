@@ -18,19 +18,19 @@ A machine learning project that predicts the outcome of CS:GO matches based on h
   - Random Forest classifier
   - hyperparameter tuning
 
-- 📈 **Evaluation Metrics**  
+- **Evaluation Metrics**  
   Assessed model performance using:  
   - Accuracy  
   - Precision  
   - Recall  
   - F1 Score  
 
-- 🧪 **Reproducible Workflow**  
+- **Reproducible Workflow**  
   Full pipeline implemented in Jupyter Notebooks, with clean and modular code.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**  
 - **Pandas**, **NumPy**  
@@ -40,7 +40,7 @@ A machine learning project that predicts the outcome of CS:GO matches based on h
 
 ---
 
-## 📊 Sample Results (Random Forest Classifier)
+## Sample Results (Random Forest Classifier)
 
 | Metric    | Score |
 |-----------|-------|
