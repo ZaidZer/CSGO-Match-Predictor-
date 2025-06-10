@@ -40,7 +40,7 @@ A machine learning project that predicts the outcome of CS:GO matches based on h
 
 ---
 
-## best results: Random Forest Classifier
+## Best Results (Random Forest Classifier)
 
 | Metric    | Score |
 |-----------|-------|
